@@ -13,5 +13,6 @@ Cole Goucher - cog31@pitt.edu
 # Our Metrics: 
 Number of arrests plus number of fires in the neighborhood divided by the area of each neighborhood in squaremiles   (arrest+fire/squaremiles)
 
-### Arrest - The neighborhood with the lowest amount of arrest 
-### Fire - The neighborhood with the lowest amount of fire
+#### Arrest  
+#### Fire 
+#### Area 
