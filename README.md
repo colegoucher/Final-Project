@@ -9,9 +9,12 @@ Cole Goucher - cog31@pitt.edu
 
 # Links to Data Files 
 [Arrest.csv](https://data.wprdc.org/datastore/dump/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f)  
+[Area.csv](https://data.wprdc.org/datastore/dump/668d7238-cfd2-492e-b397-51a6e74182ff)
+[neighbourhood.csv](https://jupyterhub.sci.pitt.edu/user/sim92/files/Final-Project/neighbourhood.csv?_xsrf=2%7C280b3296%7C765faf9eeb72ea8d37efeec0d95d0ab7%7C1701568940)
 
 # Our Metrics: 
-Number of arrests plus number of fires in the neighborhood divided by the area of each neighborhood in squaremiles   (arrest+fire/squaremiles)
+Number of arrests plus number of fires multiplied by 10 in the neighborhood divided by the area of each neighborhood in squaremiles   
+(arrest+10(fire)/squaremiles)
 
 #### Arrest  
 #### Fire 
