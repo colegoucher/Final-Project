@@ -13,9 +13,11 @@ Cole Goucher - cog31@pitt.edu
 [neighbourhood.csv](https://jupyterhub.sci.pitt.edu/user/sim92/files/Final-Project/neighbourhood.csv?_xsrf=2%7C280b3296%7C765faf9eeb72ea8d37efeec0d95d0ab7%7C1701568940)
 
 # Our Metrics: 
-#### Arrest  
-#### Fire 
-#### Area 
+**Arrest:** Arrests per Neighborhood
+
+**Fire:** Fire per Neighborhood
+
+**Area:** Area per Neighborhood
 
 **Overall Metric:** Based on a combination of our three datasets. 
 
