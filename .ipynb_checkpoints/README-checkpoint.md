@@ -13,9 +13,10 @@ Cole Goucher - cog31@pitt.edu
 [neighbourhood.csv](https://jupyterhub.sci.pitt.edu/user/sim92/files/Final-Project/neighbourhood.csv?_xsrf=2%7C280b3296%7C765faf9eeb72ea8d37efeec0d95d0ab7%7C1701568940)
 
 # Our Metrics: 
-Number of arrests plus number of fires multiplied by 10 in the neighborhood divided by the area of each neighborhood in squaremiles   
-(arrest+10(fire)/squaremiles)
-
 #### Arrest  
 #### Fire 
 #### Area 
+
+**Overall Metric:** Based on a combination of our three datasets. 
+
+Danger Rating  = Arrests+10*(Fires)/area
