@@ -1,6 +1,6 @@
 # Final-Project
 ### Finding the Best Neighborhood in Pittsburgh 
-# Team Memebers 
+# Team Members 
 Kamal Kharel - kak420@pitt.edu
 
 Siddharth Mangipudi - sim92@pitt.edu
